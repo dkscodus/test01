@@ -6,3 +6,4 @@ print(a)
 
 for i in range(3):
     print("배고프다.")
+print("Hello")
